@@ -79,7 +79,7 @@ Meu nome é Ryan Firmano, tenho 20 anos e sou natural do Rio Grande do Norte. Co
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanf202&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-      img width="50%" src="link" 
+      img width="48%" src="link" 
   />
 
 </p>
