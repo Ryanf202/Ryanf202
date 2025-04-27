@@ -9,7 +9,7 @@ Em 2016, fiz um curso de Informática Básica, o que aumentou meu fascínio pela
 Atualmente, estudo JavaScript, Python, HTML e CSS, e estou desenvolvendo um pequeno jogo com meu primo. O projeto ainda está no início, mas acredito que, à medida que avançamos, adquirimos mais conhecimento.
 
 <p align="left">
-      <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+      <a href="https://github.com/Ryanf202?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
