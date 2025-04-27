@@ -2,7 +2,11 @@
 
 **`Estudando para se torna um Desenvolvedor FullStack`**
 
-Meu nome é Ryan Firmano, tenho 20 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio na Escola Estadual Prof. José Olavo do Vale. Desde pequeno, sempre fui apaixonado por tecnologia, e em 2016 fiz um curso de Informática Básica, o que aumentou meu fascínio pela área. Comecei a me interessar por programação assistindo a vídeos no YouTube, principalmente sobre desenvolvimento de jogos. Agora, com meu próprio PC para praticar e criar projetos, estou me aprofundando ainda mais. Atualmente, estudo JavaScript, Python, HTML e CSS, e estou desenvolvendo um pequeno jogo com meu primo. O projeto ainda está no início, mas acredito que, à medida que avançamos, adquirimos mais conhecimento.
+Meu nome é Ryan Firmano, tenho 20 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio na Escola Estadual Prof. José Olavo do Vale. Desde pequeno, sempre fui apaixonado por tecnologia.
+
+Em 2016, fiz um curso de Informática Básica, o que aumentou meu fascínio pela área. Comecei a me interessar por programação assistindo a vídeos no YouTube, principalmente sobre desenvolvimento de jogos. Agora, com meu próprio PC para praticar e criar projetos, estou me aprofundando ainda mais.
+
+Atualmente, estudo JavaScript, Python, HTML e CSS, e estou desenvolvendo um pequeno jogo com meu primo. O projeto ainda está no início, mas acredito que, à medida que avançamos, adquirimos mais conhecimento.
 
 <p align="left">
       <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
